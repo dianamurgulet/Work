@@ -98,7 +98,7 @@ public class DictionaryView extends JPanel implements Observer {
 				}
 				case 12: {
 					
-					key[i][j] = new JButton("  backspace");break;
+					key[i][j] = new JButton("");break;
 					 
 				}
 				default: {
